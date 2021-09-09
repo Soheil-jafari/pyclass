@@ -1,7 +1,5 @@
 def zarb(a, b)
-   a=input("enter a number")
-   b=input("enter a number")
-   count=0
+   count=1
    while count!=a:
        b+=b
        count+=1
